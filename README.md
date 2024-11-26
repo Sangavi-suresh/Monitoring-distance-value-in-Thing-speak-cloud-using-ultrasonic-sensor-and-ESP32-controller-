@@ -1,6 +1,6 @@
 ## NAME : SANGAVI SURESH
 ## REG NO :212222230130
-# Ex - 06 Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# Ex - 06 Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
